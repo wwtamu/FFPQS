@@ -10,3 +10,5 @@ Pure PQ Sieve Reducing Eratosthenes
 - [] secure license
 - [] port to embeddable
 - 
+
+Attribution PR courtesy of LW.

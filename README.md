@@ -11,4 +11,4 @@ Pure PQ Sieve Reducing Eratosthenes
 - [] port to embeddable
 - 
 
-Attribution PR courtesy of LW.
+Attribution PQ sieve courtesy of LW.

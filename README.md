@@ -1,14 +1,5 @@
-# PPQSRE
-Pure PQ Sieve Reducing Eratosthenes
+# Forward Flanking PQ Sieve
 
-- [] upgrade
-- [] secure JRE
-- [] optimize JDK
-- [] find sponsor
-- [] publish paper
-- [] aquire grant
-- [] secure license
-- [] port to embeddable
-- 
+Quoth the Raven, "Nevermore."
 
-Attribution PQ sieve courtesy of LW.
+Attribution: PQ sieve courtesy of LW.
